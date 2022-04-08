@@ -1,11 +1,11 @@
 Part 2 Mise en oeuvre de l'injection des dépendances:
 
-On test le meme exemple de la partie 1: 
+On teste le même exemple de la partie 1: 
 
 ![image](https://user-images.githubusercontent.com/102218192/162334833-c3c94e87-77e0-4b97-b80a-56aa0a521421.png)
 
 
-dans ce partie on utilisant Framework Spring :
+Dans cette partie on utilise le Framework Spring :
 
 Version XML :
 
@@ -15,7 +15,7 @@ Version XML :
 
 ![image](https://user-images.githubusercontent.com/102218192/162336079-cf3b8a2e-f9b2-4f17-a906-a2f7d5c824a8.png)
 
-on fait l'injection via un Constructeur :
+On fait l'injection via un Constructeur :
 
 ![image](https://user-images.githubusercontent.com/102218192/162336742-31b0d266-6a6c-4df0-a274-67ecc92fc4af.png)
 
@@ -24,7 +24,7 @@ Version annotation :
 
 ![image](https://user-images.githubusercontent.com/102218192/162336460-8038bf76-026c-4dab-897c-756db46c1907.png)
 
-dans ce partie on test les commandes de maven :
+dans cette partie on teste les commandes de maven :
 
 ![image](https://user-images.githubusercontent.com/102218192/162337134-72dacdc4-3ef7-45ce-8556-b7c3454b9020.png)
 
@@ -36,7 +36,7 @@ commande mvn test:
 
 ![image](https://user-images.githubusercontent.com/102218192/162337681-5cae155a-49cf-4bc6-aa2c-929f10f38d32.png)
 
-Si on change la résultat par exemple le test ne se passe pas :
+si on change le résultat par exemple le teste ne passe pas :
 
 ![image](https://user-images.githubusercontent.com/102218192/162337777-4e7194b7-e423-45fd-8453-779cedcd0463.png)
 
@@ -59,7 +59,7 @@ commande mvn clean :
 
 ![image](https://user-images.githubusercontent.com/102218192/162338829-51a3ef25-d642-4a21-8d44-bc05dcf16c10.png)
 
-on peut faire tout les command avec IntelliJ IDEA alors on ne peut pas beson installer  maven  :
+On peut faire tous  les commandes avec IntelliJ alors on a pas besoin d'installer maven:
 
 ![image](https://user-images.githubusercontent.com/102218192/162339352-0a6c9bef-ca5b-4180-82bd-f8f7e482b16d.png)
 
